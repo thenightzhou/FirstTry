@@ -10,9 +10,11 @@
 
 # 将你的新项目关联至github
 # 1.登录github创建 New repository
-# 2.在终端输入"git config --global user.name"
-# 3.在终端输入"git config --global user.email"
+# 2.在终端输入"git config --global user.name  "你的github用户名" "
+# 3.在终端输入"git config --global user.email   "你的github邮箱" "
 # 4.在终端输入"git init"
 # 5.完成第一大块内容
 # 6.在终端输入"git remote add origin https://github.com/用户名/仓库名.git"
 # 7.在终端输入"git push -u origin main"
+# 若显示port443 网络问题 大概率因为Watt Toolkit无法加速虚拟机里运行的Linux 可以考虑用github自带的add拖拽文件上传
+# 或者输入 git push -u https://gitclone.com/github.com/thenightzhou/FirstTry.git main
